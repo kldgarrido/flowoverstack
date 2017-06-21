@@ -36,6 +36,10 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 gem 'devise'
 gem 'bootstrap-sass', '~> 3.3.6'
+gem 'annotate'
+gem 'redcarpet'
+gem 'gravatar-ultimate'
+
 
 
 group :development, :test do
